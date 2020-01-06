@@ -71,6 +71,7 @@
 - https://www.joyent.com/node-js/production/design/errors
 - https://nodesource.com/blog/understanding-the-nodejs-event-loop/
 - https://www.manning.com/books/express-in-action
+- https://habr.com/ru/company/ruvds/blog/482472/
   
 ### package.json
 - https://habr.com/ru/company/ruvds/blog/423703/
